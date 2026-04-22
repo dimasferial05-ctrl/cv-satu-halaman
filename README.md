@@ -1,2 +1,2 @@
 # cv-satu-halaman
-Proyek latihan membuat CV satu halaman menggunakan HTML dan CSS
+Proyek CV satu halaman Dimas menggunakan HTML dan CSS
