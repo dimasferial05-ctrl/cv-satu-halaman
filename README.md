@@ -2,6 +2,10 @@
 
 Ini adalah proyek pembuatan CV satu halaman yang responsif dan minimalis. Proyek ini dibuat untuk mempraktikkan dasar-dasar pengembangan web (_frontend_).
 
+## Project URL
+
+https://roadmap.sh/projects/single-page-cv
+
 ## 🔗 Live Demo
 
 Kamu bisa melihat hasil akhir dari CV ini melalui tautan berikut:
